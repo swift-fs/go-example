@@ -14,5 +14,10 @@ func main() {
 	// example.IfElse()
 	// example.Switch()
 	// example.Arrays()
-	example.Slice()
+	// example.Slice()
+	// example.Map()
+	// example.Range()
+	// example.Function()
+	// example.MultReturn()
+	example.Closure()
 }
