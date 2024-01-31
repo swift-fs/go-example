@@ -22,5 +22,8 @@ func main() {
 	// example.Closure()
 	// example.Pointer()
 	// example.String()
-	example.Struct()
+	// example.Struct()
+	// example.Method()
+	// example.Interface()
+	example.Embed()
 }
