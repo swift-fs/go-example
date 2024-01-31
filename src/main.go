@@ -19,5 +19,7 @@ func main() {
 	// example.Range()
 	// example.Function()
 	// example.MultReturn()
-	example.Closure()
+	// example.Closure()
+	// example.Pointer()
+	example.String()
 }
