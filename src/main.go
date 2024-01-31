@@ -21,5 +21,6 @@ func main() {
 	// example.MultReturn()
 	// example.Closure()
 	// example.Pointer()
-	example.String()
+	// example.String()
+	example.Struct()
 }
