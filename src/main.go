@@ -38,5 +38,8 @@ func main() {
 	// example.NonBlocking()
 	// example.CloseChannel()
 	// example.TimerExample()
-	example.Ticker()
+	// example.Ticker()
+	// example.Worker()
+	// example.WaitGroup()
+	example.RateLimiting()
 }

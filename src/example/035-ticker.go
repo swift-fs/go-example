@@ -21,7 +21,8 @@ func Ticker() {
 		}
 	}()
 
-	time.Sleep(1600 * time.Millisecond)
+	// time.Sleep(1600 * time.Millisecond)
+	select {}
 	ticker.Stop()
 	done <- true
 	fmt.Println("Ticker stopped")
