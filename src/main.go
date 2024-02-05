@@ -41,5 +41,6 @@ func main() {
 	// example.Ticker()
 	// example.Worker()
 	// example.WaitGroup()
-	example.RateLimiting()
+	// example.RateLimiting()
+	example.Atomic()
 }
