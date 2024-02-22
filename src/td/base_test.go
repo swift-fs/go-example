@@ -16,7 +16,6 @@ func TestSplit(t *testing.T) {
 		args       args
 		wantResult []string
 	}{
-		// TODO: Add test cases.
 		{
 			name: "test11",
 			args: args{
